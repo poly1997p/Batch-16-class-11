@@ -24,7 +24,7 @@
 
 .row{
     float: left;
-    height: 150px;
+    height: 250px;
     background-color: aquamarine;
     width: 40%;
     margin-left: 80px;
@@ -35,4 +35,175 @@
 
 h2 {
     font-size: 30px;
+}
+
+
+@media screen and (max-width: 1040px){
+    .row{
+        width: 420px;
+    }
+    
+}
+
+/* 
+@media screen and (max-width: 1001px){
+    .row{
+        width: 410px;
+    }
+    
+} */
+
+
+@media screen and (max-width: 980px){
+    .row{
+        width: 395px;
+    }
+    
+}
+
+
+@media screen and (max-width: 950px){
+    .row{
+        width: 380px;
+    }
+    
+}
+
+
+@media screen and (max-width: 920px){
+    .row{
+        width: 370px;
+    }
+    
+}
+
+
+@media screen and (max-width: 900px){
+    .row{
+        width: 350px;
+    }
+    
+}
+
+
+
+@media screen and (max-width: 860px){
+    .row{
+        width: 320px;
+    }
+    
+}
+
+
+@media screen and (max-width: 800px){
+    .row{
+        width: 300px;
+    }
+    
+}
+
+
+@media screen and (max-width: 760px){
+    .row{
+        width: 280px;
+    }
+    
+}
+
+
+@media screen and (max-width: 720px){
+    .row{
+        width: 260px;
+    }
+    
+}
+
+
+@media screen and (max-width: 680px){
+    .row{
+        width: 230px;
+    }
+    
+}
+
+
+@media screen and (max-width: 620px){
+    .row{
+        width:500px;
+    }
+    
+}
+
+
+@media screen and (max-width: 585px){
+    .row{
+        width:480px;
+    }
+    
+}
+
+
+@media screen and (max-width: 563px){
+    .row{
+        width:460px;
+    }
+    
+}
+
+
+@media screen and (max-width: 546px){
+    .row{
+        width:430px;
+    }
+    
+}
+
+
+@media screen and (max-width: 513px){
+    .row{
+        width:410px;
+    }
+    
+}
+
+
+@media screen and (max-width: 493px){
+    .row{
+        width:390px;
+    }
+    
+}
+
+
+@media screen and (max-width: 471px){
+    .row{
+        width:370px;
+    }
+    
+}
+
+
+@media screen and (max-width: 457px){
+    .row{
+        width:350px;
+        margin-right: 5px;
+    }
+    
+}
+
+
+@media screen and (max-width: 434px){
+    .row{
+        width:330px;
+    }
+    
+}
+
+
+@media screen and (max-width: 412px){
+    .row{
+        width:75%;
+        margin-left: 40px;
+    }
+    
 }
